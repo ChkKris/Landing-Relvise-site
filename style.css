@@ -933,14 +933,9 @@ body {
 .contacts-footer__item:not(:last-child) {
 	margin: 0px 0px 12px 0px;
 }
-.contacts-footer__item_phone {
-	background: url("img/footer/01.svg") left no-repeat;
-}
-.contacts-footer__item_map {
-	background: url("img/footer/02.svg") left no-repeat;
-}
-.contacts-footer__item_email {
-	background: url("img/footer/03.svg") left no-repeat;
+.contacts-footer__item_icon {
+	display: flex;
+	position: absolute;
 }
 .footer__bottom {
 	padding: 25px 0;
