@@ -1,4 +1,4 @@
-# [LandingPage-RelviseSite](https://chkkris.github.io/LandingPage-Relvise/))
+# [LandingPage-RelviseSite](https://chkkris.github.io/LandingPage-Relvise/)
 * Landing page
 * Adaptive layout.
 * Working with the layout from Figma.
